@@ -1,2 +1,2 @@
 # javascript
-javascript__basic
+javascript__
